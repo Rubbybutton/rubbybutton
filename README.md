@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 <!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/rubbybutton/rubbybutton/blob/main/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/rubbybutton)
