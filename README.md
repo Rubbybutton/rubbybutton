@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- If you're using "master" as default branch -->
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
